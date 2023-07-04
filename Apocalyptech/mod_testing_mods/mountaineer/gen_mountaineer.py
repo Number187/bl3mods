@@ -51,7 +51,7 @@ mod = Mod('mountaineer.bl3hotfix',
 degree_to_set = 89
 
 # Default: 45 for char, 50 for sliding
-step_height = 400
+step_height = 10000
 
 for char, obj_name in [
         ('Beastmaster', '/Game/PlayerCharacters/Beastmaster/_Shared/_Design/Character/BPChar_Beastmaster.Default__BPChar_Beastmaster_C'),
